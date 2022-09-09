@@ -1,2 +1,2 @@
 # WebTesting
-Practice within the course QA Engineer.
+Practice within the course QA Engineer
